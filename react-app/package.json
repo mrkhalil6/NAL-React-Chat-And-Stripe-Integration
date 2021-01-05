@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.6.3",
     "react-app-env": "^1.2.3",
     "react-bootstrap": "^0.32.4",
